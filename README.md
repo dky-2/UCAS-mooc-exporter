@@ -68,7 +68,7 @@ git clone https://github.com/<你的用户名>/UCAS-mooc-exporter.git "$env:USER
 
 ---
 
-## 工作流程（skill 内部做什么）
+## 工作流程
 
 1. 打开课程首页 →「作业」，找到目标作业，记下其 `workid` 与「已交」人数。
 2. 打开该作业的批阅页。

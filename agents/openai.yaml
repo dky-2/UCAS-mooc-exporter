@@ -1,0 +1,4 @@
+interface:
+  display_name: "UCAS-mooc-exporter"
+  short_description: "批量导出国科大在线课程作业的学生提交附件并按规则命名"
+  default_prompt: "Use $ucas-mooc-exporter to pull every submission for 第二次作业 into a local folder as PDFs named 姓名-学号."

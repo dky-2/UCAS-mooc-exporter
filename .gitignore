@@ -1,0 +1,16 @@
+# 平台导出的压缩包与解压出来的中间目录，不进版本库
+*.zip
+*.rar
+*.7z
+_unzip/
+hw_*/
+
+# 操作系统
+Thumbs.db
+desktop.ini
+.DS_Store
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
